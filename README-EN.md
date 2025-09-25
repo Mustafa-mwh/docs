@@ -90,7 +90,7 @@ Each task should include:
   - Technical notes or decisions
   - Documentation of API endpoints, models, or database schemas
 
-> **A reference link for documentation format will be added later.**
+> **[Example Documentation for Products Module](/products.md)**
 
 ---
 
